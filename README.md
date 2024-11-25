@@ -11,7 +11,9 @@ To do this, I have also included a mouse coordinate tool, which you can quick ch
 My screen is 1080p, and I run 1920x1080, and without fullscreening, x = 777 and y = 715 was good enough ((WITH CHAT OPEN!)) It doesn't need to be perfect. 
 Without chat open,
 
-Note: This does not automate or bot the game whatsoever, and you still have to play. But it's much faster and easier imo 
+Note: lbt2.py DOES automate, while clicker.py is simpler and does not but runs with less bloat. It's still in progress and very scuffed. Sicne it does not directly bot the JS on the page (howerver, it does not randomize input timngs, but they surely don't care).
+
+You still need to set up the coordinates or they will be off by a bit. I'm also not sure I got less rows working right I'll fix it l8r
 
 Example screen setup on main monitor: 
 
@@ -26,3 +28,8 @@ Press L (or any hotkey you change in the script) to click the play button, and t
 ![image](https://github.com/user-attachments/assets/c4296bc5-d5cf-49e7-9114-3f36fef5788c)
 
 This took me like 10 minutes to get with this, much easier than clicking a lot
+
+LB can't learn how you play if you are just playing as randomly as it can be 
+
+
+-Ruby
